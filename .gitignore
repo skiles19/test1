@@ -1,0 +1,15 @@
+<html>
+<head>
+  <title>Naše restaurace</title>
+</head>
+<body>
+  <h1>Vítejte v naší restauraci</h1>
+  <p>Nabízíme široký výběr vynikajících jídel a nápojů, které si můžete vychutnat v příjemném prostředí naší restaurace. Naše kuchaři připravují jídla z čerstvých surovin a dbají na to, aby byla nabízena vždy kvalitní a chutná strava.</p>
+  <h2>Jídelní lístek</h2>
+  <ul>
+    <li>Grilované kuře s bramborovým salátem</li>
+    <li>Smažený sýr s hranolkami</li>
+    <li>Bolognese omáčka s těstovinami</li>
+    <li>Pečené kachní stehno s brusinkovou omáčkou</li>
+  </ul>
+  <h2>Nabídka nápojů
